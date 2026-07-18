@@ -1,4 +1,4 @@
-# 🚀 Awesome Windows Debloaters
+# 🚀 Windows Debloaters
 
 > A curated collection of the best Windows debloaters, privacy tools, optimizers, and system utilities.
 
