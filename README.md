@@ -1,22 +1,19 @@
-  ![Maintenance](https://img.shields.io/badge/Maintained-Yes-success?style=for-the-badge)
-                                                                                          ![Contributions](https://img.shields.io/badge/Contributions-Welcome-blue?style=for-the-badge)
-
----
-
 <div align="center">
 
 # 🚀 Windows Utility Hub
 
-### A curated collection of trusted Windows software for power users, gamers, developers, and everyday users.
+### The ultimate curated collection of trusted Windows software for power users, gamers, developers, and everyday users.
 
 <img src="https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0078D6?style=for-the-badge&logo=windows" />
 <img src="https://img.shields.io/badge/Category-Software%20Collection-orange?style=for-the-badge" />
 <img src="https://img.shields.io/github/license/BukkitRBLX/BukkitRBLX.github.io?style=for-the-badge" />
 <img src="https://img.shields.io/github/last-commit/BukkitRBLX/BukkitRBLX.github.io?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Maintained-Yes-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Contributions-Welcome-blue?style=for-the-badge" />
 
 <br><br>
 
-⭐ **A carefully curated collection of trusted Windows utilities with official download sources.**
+⭐ **A carefully curated list of trusted Windows utilities with official download links.**
 
 </div>
 
