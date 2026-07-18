@@ -55,22 +55,16 @@ Every tool included in this repository links to its **official website** or **of
 
 # 🏆 Hall of Fame
 
-These are some of the most respected Windows utilities and excellent starting points for most users.
+These are some of the most respected Windows utilities and excellent starting points for almost every user.
 
 | Tool | Why it's here |
 |------|---------------|
-| [Everything](https://www.voidtools.com/) | Lightning-fast file search that easily outperforms Windows Search. |
-| [Microsoft PowerToys](https://github.com/microsoft/PowerToys) | Official productivity suite from Microsoft with dozens of useful utilities. |
-| [Chris Titus Tech WinUtil](https://christitus.com/windows-tool/) | One of the most popular Windows optimization and debloating utilities. |
-| [HWiNFO](https://www.hwinfo.com/) | Industry-standard hardware monitoring and diagnostics. |
-| [Bulk Crap Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) | One of the best free uninstallers available. |
-| [NVCleanstall](https://www.techpowerup.com/nvcleanstall/) | Install NVIDIA drivers without unnecessary components. |
-| [Display Driver Uninstaller (DDU)](https://www.wagnardsoft.com/display-driver-uninstaller-DDU-) | Cleanly remove graphics drivers before reinstalling. |
-| [FanControl](https://getfancontrol.com/) | Advanced fan curve control for supported systems. |
-| [Rufus](https://rufus.ie/) | Fast and reliable bootable USB creator. |
-| [Ventoy](https://www.ventoy.net/) | Boot multiple ISO files from a single USB drive without reformatting. |
-
----
+| [Everything](https://www.voidtools.com/) | Lightning-fast file search that dramatically improves Windows file searching. |
+| [Microsoft PowerToys](https://github.com/microsoft/PowerToys) | Official Microsoft utility suite adding powerful productivity features to Windows. |
+| [Chris Titus Tech WinUtil](https://christitus.com/windows-tool/) | Popular Windows configuration and optimization utility with tweaks, maintenance tools, and package management. |
+| [HWiNFO](https://www.hwinfo.com/) | Advanced hardware monitoring and diagnostics tool trusted by enthusiasts and professionals. |
+| [Bulk Crap Uninstaller](https://github.com/Klocman/Bulk-Crap-Uninstaller) | Powerful open-source uninstaller for removing programs and leftover files. |
+| [Ventoy](https://www.ventoy.net/) | Allows multiple ISO files to boot from a single USB drive without reformatting. |
 
 # 📖 Legend
 
@@ -85,10 +79,12 @@ These are some of the most respected Windows utilities and excellent starting po
 
 # 📚 Table of Contents
 
+- 🏆 Hall of Fame
 - 🧹 Debloaters
-- 🔒 Privacy
-- ⚡ Optimization
+- 🛡️ Privacy & Security
+- ⚙️ System Tweaks
 - 🎨 Desktop Customization
+- ⚡ System Optimization
 - 🚗 Driver Utilities
 - 💿 Windows Installation
 - 📦 Package Managers
@@ -126,11 +122,11 @@ Remove unnecessary Windows apps, features, and components to reduce clutter and 
 | Tool | ⭐ | 💰 | 🔓 | Best For | Description |
 |------|:--:|:--:|:--:|----------|-------------|
 | [Chris Titus Tech WinUtil](https://christitus.com/windows-tool/) | ⭐ | Free | ✅ | Everyone | One of the most popular all-in-one Windows optimization and debloating utilities. Includes package management, tweaks, maintenance, and Windows configuration. |
-| [Win11Debloat](https://github.com/Raphire/Win11Debloat) | ⭐ | Free | ✅ | Windows 11 | Removes unnecessary Windows apps while maintaining compatibility with Windows updates. One of the safest debloating scripts available. |
+| [Win11Debloat](https://github.com/Raphire/Win11Debloat) | ⭐ | Free | ✅ | Windows 11 | Removes unnecessary Windows apps while maintaining compatibility with Windows updates. A popular Windows 11 debloating script focused on removing unnecessary apps while keeping the system functional. |
 | [Sophia Script for Windows](https://github.com/farag2/Sophia-Script-for-Windows) | ⭐ | Free | ✅ | Power Users | Highly customizable PowerShell script that lets you configure almost every aspect of Windows. |
 | [BloatyNosy](https://github.com/builtbybel/BloatyNosy) | ⭐ | Free | ✅ | Beginners | Modern graphical application focused on debloating, privacy, and Windows tweaks. |
-| [AtlasOS](https://atlasos.net/) | ⭐ | Free | ✅ | Gaming | Performance-focused Windows playbook designed to reduce latency and improve responsiveness. |
-| [ReviOS](https://revi.cc/) | ⭐ | Free | ❌ | Gaming | Lightweight Windows modification focused on gaming performance and reduced system overhead. |
+| [AtlasOS](https://atlasos.net/) | ⭐ | Free | ✅ | Gaming | Performance-focused Windows playbook designed to reduce unnecessary background activity and improve responsiveness. Recommended for advanced users. |
+| [ReviOS](https://revi.cc/) | ⭐ | Free | ❌ | Gaming | Windows modification project focused on reducing system overhead and improving responsiveness. Recommended for advanced users. |
 
 ---
 
@@ -181,6 +177,7 @@ Protect your privacy, control network activity, secure your data, and improve Wi
 | [KeePassXC](https://keepassxc.org/) | ⭐ | 🆓 | 🔓 | 🟢 Easy | Offline open-source password manager with strong encryption. |
 | [Bitwarden](https://bitwarden.com/) | ⭐ | 🆓 / Paid | ❌ | 🟢 Easy | Secure password manager with cross-platform synchronization. |
 | [GlassWire](https://www.glasswire.com/) | ⭐ | 🆓 / Paid | ❌ | 🟢 Easy | Network monitoring tool with traffic visualization and application alerts. |
+| [O&O ShutUp10++](https://www.oo-software.com/en/shutup10) | ⭐ | 🆓 | ❌ | 🟢 Easy | Privacy tool that helps manage Windows telemetry, tracking, and data collection settings. |
 
 ---
 
